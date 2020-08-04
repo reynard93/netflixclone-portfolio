@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7f1964e-ce17-4a3e-947a-335a98017698" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../algo-react-demo/src/algo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo-react-demo/src/utility/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/decryptEncrytedString.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/decryptEncrytedString.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/differentPathsToEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/differentPathsToEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/fewestCoins.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/fewestCoins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/filterBasedOnArrayProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/filterBasedOnArrayProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/firstAndLastIndexInSortedArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/firstAndLastIndexInSortedArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/firstMissingPositive.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/firstMissingPositive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/generateValidParens.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/generateValidParens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/kthLargest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/kthLargest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/maxAreaOfSquare.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/maxAreaOfSquare.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/pluckValuesIntoCategories.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/pluckValuesIntoCategories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/reconstructBST.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/reconstructBST.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/searchWordInMatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/searchWordInMatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/spiralOrderMatrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/spiralOrderMatrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/splitArrayWithEqualSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/splitArrayWithEqualSum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/sum2LinkedList.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/sum2LinkedList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algoAaron/verticalOrderTraversal.js" beforeDir="false" afterPath="$PROJECT_DIR$/../algoAaron/verticalOrderTraversal.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zgmh29x6" />
+  </component>
+  <component name="ProjectId" id="1fZYqPwmtHw5v62Vuq5XElq8iJp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f1964e-ce17-4a3e-947a-335a98017698" name="Default Changelist" comment="" />
+      <created>1596427271477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596427271477</updated>
+      <workItem from="1596427272917" duration="1125000" />
+      <workItem from="1596527666953" duration="289000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
