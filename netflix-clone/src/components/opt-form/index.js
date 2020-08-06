@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Input, Break, Button, Text } from './styles/opt-form';
+import chevRight from 'images/icons/chevron-right.png';
 
 export default function OptForm({ children, ...restProps }) {
     return <Container {...restProps}>{children}</Container>;
@@ -12,7 +13,7 @@ OptForm.Input = function OptFormInput({ ...restProps }) {
 OptForm.Button = function OptFormButton({ children, ...restProps }) {
     return (
         <Button {...restProps}>
-            {children} <img src="/images/icons/chevron-right.png" alt="Try Now" />
+            {children} <img src={chevRight} alt="Try Now" />
         </Button>
     )
 }

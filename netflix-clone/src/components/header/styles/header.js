@@ -1,12 +1,15 @@
 import styled from 'styled-components';
 import { Link as ReachRouterLink } from 'react-router-dom';
 
+import jokerBG from 'images/misc/joker1.jpg'
+import homeBG from 'images/misc/home-bg.jpg'
+
 export const Background = styled.section`
     display: flex;
     flex-direction: column;
-    background: url(${({ src }) => (src ? `../images/misc/${src}.jpg` : '../images/misc/home-bg.jpg')}) top left / cover no-repeat;
+    background: url(${({ srcJoke }) => (srcJoke ? jokerBG : homeBG)}) top left / 100% no-repeat;
     
-    @media (max-width: 1100px) {
+    @media (max-width: 900px) {
         ${({ dontShowOnSmallViewPort }) => dontShowOnSmallViewPort && `background: none;`}
     }
 `
@@ -23,7 +26,7 @@ export const Container = styled.div`
         display: flex;
     }
     
-    @media (max-width: 1000px) {
+    @media (max-width: 900px) {
         margin: 0 30px;
     }
 `;
@@ -91,7 +94,7 @@ export const Feature = styled(Container)`
     align-items: normal;
     width: 50%;
     
-    @media (max-width: 1100px) {
+    @media (max-width: 900px) {
         display: none;
     }
 `;

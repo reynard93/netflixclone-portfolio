@@ -33,7 +33,7 @@ export const Group = styled.div`
     ${({ margin }) => margin && `margin: ${margin}`};
     
     > ${Container}:first-of-type {
-        @media (min-width: 1100px) {
+        @media (min-width: 900px) {
             margin-top: -150px;
         }
     }
@@ -122,7 +122,7 @@ export const Item = styled.div`
 export const FeatureText = styled.p`
     font-size: 18px;
     color: white;
-    font-weight: ${({ fontWeight }) => {fontWeight === 'bold' ? 'bold' : 'normal'}};
+    font-weight: ${({ fontWeight }) => fontWeight === 'bold' ? 'bold' : 'normal'};
     margin: 0;
     
     @media (max-width: 800px) {

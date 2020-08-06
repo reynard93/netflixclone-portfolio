@@ -18,6 +18,9 @@ import {
     Picture,
     Dropdown
 } from './styles/header';
+import searchIcon from 'images/icons/search.png';
+import profileLogo from 'images/users/1.png';
+
 
 export default function Header({ bg = true, children, ...restProps }) {
     return bg ? <Background {...restProps}>{children}</Background> : children;
@@ -37,7 +40,7 @@ Header.Search = function HeaderSearch({ searchTerm, setSearchTerm, ...restProps 
     return (
         <Search {...restProps}>
             <SearchIcon onClick={() => setSearchActive(!searchActive)}>
-                <img src="/images/icons/search.png" alt="Search" />
+                <img src={searchIcon} alt="Search" />
             </SearchIcon>
             <SearchInput
                 value={searchTerm}
@@ -90,7 +93,7 @@ Header.Profile = function HeaderProfile({ children, ...restProps }) {
 }
 
 Header.Picture = function HeaderPicture({ src, ...restProps }) {
-    return <Picture {...restProps} src={`/images/users/${src}.png`} />;
+    return <Picture {...restProps} src={profileLogo} />;
 }
 
 Header.Dropdown = function HeaderDRopdown({ children, ...restProps }) {

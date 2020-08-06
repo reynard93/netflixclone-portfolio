@@ -5,11 +5,11 @@ export const Inner = styled.div`
     align-items: center;
     justify-content: space-between;
     flex-direction: ${({ direction }) => direction};
-    max-width: 1100px;
+    max-width: 900px;
     margin: auto;
     width: 100%;
     
-    @media (max-width: 1000px) {
+    @media (max-width: 800px) {
         flex-direction: column;
     }
 `;

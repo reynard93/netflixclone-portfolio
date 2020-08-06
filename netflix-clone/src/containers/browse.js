@@ -45,7 +45,7 @@ export function BrowseContainer({ slides }) {
         <>
         {loading ? <Loading src={user.photoURL} /> : <Loading.ReleaseBody />}
         
-            <Header src="joker1" dontShowOnSmallViewPort>
+            <Header srcJoke="joker1" dontShowOnSmallViewPort>
                 <Header.Frame>
                     <Header.Group>
                         <Header.Logo to={ROUTES.HOME} src="/images/misc/logo.svg" alt="Netflix" />
